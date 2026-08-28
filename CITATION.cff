@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Youthcare Infoflow Survey: analysis pipeline"
+type: software
+
+# --- Authors: affiliations and ORCIDs are optional; uncomment and fill if wanted. ---
+authors:
+  # CFF allows one affiliation per author, so the primary institution is listed below. The
+  # full per-author affiliation set on the manuscript title page is:
+  #   Feline Mollerus 1,2,3 | Rob Wichers 1,2 | Emily Croes 4 |
+  #   Pomme van Warmerdam 4 | Jeroen Legerstee 4,5,6 | Hilgo Bruining 1,2
+  #   1 Amsterdam UMC, N=You Neurodevelopmental Precision Center, Dept of Child and Adolescent
+  #     Psychiatry & Psychosocial Care, Amsterdam, the Netherlands
+  #   2 Amsterdam UMC, Emma Children's Hospital, Dept of Child and Adolescent Psychiatry &
+  #     Psychosocial Care, Amsterdam, the Netherlands
+  #   3 Accenture, Amsterdam, the Netherlands
+  #   4 Levvel Mental Health Center, Duivendrecht, the Netherlands
+  #   5 Dept of Child and Adolescent Psychiatry/Psychology, Erasmus MC Sophia Children's
+  #     Hospital, University Medical Center Rotterdam, the Netherlands
+  #   6 Research Institute of Child Development and Education, University of Amsterdam,
+  #     Amsterdam, the Netherlands
+  - given-names: Feline
+    family-names: Mollerus
+    orcid: "https://orcid.org/0009-0000-5153-6540"
+    affiliation: "Amsterdam UMC, N=You Neurodevelopmental Precision Center, Department of Child and Adolescent Psychiatry & Psychosocial Care, Amsterdam, the Netherlands"
+  - given-names: Rob
+    family-names: Wichers
+    orcid: "https://orcid.org/0000-0002-6630-8038"
+    affiliation: "Amsterdam UMC, N=You Neurodevelopmental Precision Center, Department of Child and Adolescent Psychiatry & Psychosocial Care, Amsterdam, the Netherlands"
+  - given-names: Emily
+    family-names: Croes
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO (if available)
+    affiliation: "Levvel Mental Health Center, Duivendrecht, the Netherlands"
+  - given-names: Pomme
+    name-particle: van
+    family-names: Warmerdam
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO (if available)
+    affiliation: "Levvel Mental Health Center, Duivendrecht, the Netherlands"
+  - given-names: Jeroen
+    family-names: Legerstee
+    orcid: "https://orcid.org/0000-0001-6793-1123"
+    affiliation: "Levvel Mental Health Center, Duivendrecht, the Netherlands"
+  - given-names: Hilgo
+    family-names: Bruining
+    orcid: "https://orcid.org/0000-0003-0660-1969"
+    affiliation: "Amsterdam UMC, N=You Neurodevelopmental Precision Center, Department of Child and Adolescent Psychiatry & Psychosocial Care, Amsterdam, the Netherlands"
+
+# Dual-licensed: MIT for the code, CC-BY-4.0 for the releasable docs/aggregate tables.
+license:
+  - MIT
+  - CC-BY-4.0
+
+# --- Release metadata ---
+version: "1.0.0"
+date-released: "2026-10-23"
+repository-code: "https://github.com/FelineMol/youthcare-infoflow"
+# doi: "10.5281/zenodo.TODO"        # TODO: uncomment and fill if you mint a Zenodo DOI
+
+keywords:
+  - information fragmentation
+  - youth mental health care
+  - integrated care
+  - survey
+
+# --- Preferred citation = the journal article. Uncomment and fill when accepted. ---
+# preferred-citation:
+#   type: article
+#   title: "TODO: article title"
+#   authors:
+#     - given-names: Feline
+#       family-names: Mollerus
+#     # - given-names: TODO
+#     #   family-names: TODO
+#   journal: "BMC Health Services Research"
+#   year: 2026            # TODO
+#   doi: "TODO"           # TODO

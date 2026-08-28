@@ -1,0 +1,42 @@
+theme,item_id,publication_label,reporting_group,persona_a,valid_n_a,top2_pct_a,mean_a,persona_b,valid_n_b,top2_pct_b,mean_b,top2_delta_pp,mean_delta,min_valid_n,highlighted
+Overview/Insight,PRO-OVZ-c,Has sufficient context about the child and their environment,Professionals,Care providers,15,33.33,2.67,Intake coordinators,16,87.5,3.88,54.17,1.21,15,Yes
+Overview/Insight,PRO-OVZ-a,Has overview of involved providers/organisations (past and present),Professionals,Care providers,15,33.33,2.6,Intake coordinators,16,81.25,3.81,47.92,1.21,15,Yes
+Information exchange,PRO-INFO-f,Can share information with other professionals easily,Professionals,Care providers,15,60.0,3.4,Intake coordinators,14,21.43,2.86,38.57,0.54,14,Yes
+Information exchange,FAM-TOEG-b,Knows where/who to ask when information is missing,Families,Parents,27,77.78,3.85,Child respondents,10,40.0,2.7,37.78,1.15,10,Yes
+Overview/Insight,FAM-OVZ-e,Believes all important or required information is documented in professionals' records,Families,Parents,26,42.31,3.19,Child respondents,10,80.0,3.9,37.69,0.71,10,Yes
+Overview/Insight,PRO-OVZ-b,Has overview of what care/support was received during the child's previous trajectory,Professionals,Care providers,15,40.0,2.73,Intake coordinators,16,75.0,3.62,35.0,0.89,15,Yes
+Information exchange,FAM-TOEG-a,Personally possesses information about prior care (own copies),Families,Parents,26,61.54,3.42,Child respondents,9,22.22,1.67,39.32,1.76,9,No
+Information exchange,PRO-INFO-c,Can request information from other professionals easily,Professionals,Care providers,15,53.33,2.67,Intake coordinators,15,20.0,2.73,33.33,0.07,15,No
+Overview/Insight,FAM-OVZ-d,Understands what is written in the record,Families,Parents,27,70.37,3.89,Child respondents,9,44.44,3.33,25.93,0.56,9,No
+Information exchange,FAM-UITW-d,Knows what information has been shared between professionals,Families,Parents,27,33.33,2.44,Child respondents,8,12.5,2.0,20.83,0.44,8,No
+Experience,PRO-BEV-d,Does not find it burdensome to reconstruct or request information regarding the child's trajectory,Professionals,Care providers,15,26.67,2.67,Intake coordinators,15,46.67,3.27,20.0,0.6,15,No
+Control,FAM-REG-e,Wants to personally possess copies of key information/documents,Families,Parents,27,96.3,4.81,Child respondents,13,76.92,4.46,19.38,0.35,13,No
+Overview/Insight,FAM-OVZ-c,Knows what information is recorded in professionals' records,Families,Parents,26,26.92,2.35,Child respondents,12,8.33,1.75,18.59,0.6,12,No
+Information exchange,PRO-INFO-e,Can interpret the information from other professionals easily (little need to clarify),Professionals,Care providers,15,46.67,3.0,Intake coordinators,14,64.29,3.43,17.62,0.43,14,No
+Overview/Insight,PRO-OVZ-d,Knows which organisations have recorded which information,Professionals,Care providers,15,20.0,2.33,Intake coordinators,16,37.5,2.94,17.5,0.6,15,No
+Effort,FAM-INSP-a,Does not find collecting information before the start of care time-consuming/effortful,Families,Parents,26,19.23,2.19,Child respondents,9,33.33,2.89,14.1,0.7,9,No
+Experience,FAM-BEV-d,Finds it important that professionals know the full story (and therefore shares it),Families,Parents,22,90.91,4.73,Child respondents,13,76.92,4.08,13.99,0.65,13,No
+Overview/Insight,FAM-OVZ-a,Knows well what care/support was received during the child's previous trajectory,Families,Parents,27,48.15,3.19,Child respondents,13,61.54,3.54,13.39,0.35,13,No
+Overview/Insight,FAM-OVZ-b,Knows well when care/support was received during the child's previous trajectory,Families,Parents,27,66.67,3.37,Child respondents,13,53.85,3.46,12.82,0.09,13,No
+Information exchange,PRO-INFO-a,Rarely needs to repeat questions or tests due to lack of access to other professionals' information,Professionals,Care providers,15,33.33,2.73,Intake coordinators,14,21.43,2.21,11.9,0.52,14,No
+Experience,PRO-BEV-c,Finds it important that families tell their full story themselves,Professionals,Care providers,15,86.67,4.4,Intake coordinators,16,75.0,3.69,11.67,0.71,15,No
+Information exchange,FAM-TOEG-d,Can share relevant information with professionals successfully,Families,Parents,26,61.54,3.5,Child respondents,8,50.0,3.25,11.54,0.25,8,No
+Control,FAM-REG-a,Knows who can see information and with whom it is shared,Families,Parents,27,22.22,2.15,Child respondents,9,33.33,2.22,11.11,0.07,9,No
+Information exchange,FAM-TOEG-c,Can request information from professionals easily,Families,Parents,26,30.77,2.88,Child respondents,5,20.0,2.4,10.77,0.48,5,No
+Control,FAM-REG-b,Feels the information belongs to the family/child (not to professionals),Families,Parents,25,24.0,2.64,Child respondents,12,33.33,2.92,9.33,0.28,12,No
+Effort,FAM-INSP-c,Rarely had to retell the child's story during the care trajectory,Families,Parents,27,7.41,1.59,Child respondents,12,16.67,1.92,9.26,0.32,12,No
+Information exchange,FAM-UITW-a,Rarely acts as the messenger between professionals,Families,Parents,27,18.52,2.04,Child respondents,11,27.27,2.64,8.75,0.6,11,No
+Information exchange,FAM-UITW-c,The child rarely had to repeat questions or assessments because professionals had not sufficiently used each other's information,Families,Parents,25,24.0,2.32,Child respondents,13,15.38,2.15,8.62,0.17,13,No
+Control,FAM-REG-d,Wants to be able to read what is in professionals' records,Families,Parents,27,100.0,4.81,Child respondents,13,92.31,4.46,7.69,0.35,13,No
+Effort,FAM-INSP-b,Does not find sharing information with professionals time-consuming/effortful,Families,Parents,27,18.52,2.33,Child respondents,12,25.0,2.67,6.48,0.33,12,No
+Information exchange,PRO-INFO-b,Rarely receives information from other professionals through families,Professionals,Care providers,15,13.33,1.87,Intake coordinators,14,7.14,2.21,6.19,0.35,14,No
+Experience,FAM-BEV-b,Finds it easy to tell professionals what has happened/the child has experienced,Families,Parents,27,44.44,3.07,Child respondents,13,38.46,2.77,5.98,0.3,13,No
+Control,FAM-REG-c,Wants to decide who can read which information,Families,Parents,27,81.48,4.33,Child respondents,13,84.62,4.46,3.14,0.13,13,No
+Experience,FAM-BEV-c,Does not find repeating the child's story burdensome,Families,Parents,27,25.93,2.44,Child respondents,13,23.08,2.46,2.85,0.02,13,No
+Experience,PRO-BEV-b,Finds it easy to get a complete picture of the child's life events and care trajectory,Professionals,Care providers,15,40.0,2.87,Intake coordinators,16,37.5,3.25,2.5,0.38,15,No
+Overview/Insight,FAM-OVZ-f,Believes professionals had sufficient information at the start of care (no extra information was needed),Families,Parents,27,14.81,2.33,Child respondents,8,12.5,2.0,2.31,0.33,8,No
+Experience,FAM-BEV-e,Feels providers consider the whole story of the child,Families,Parents,22,36.36,2.73,Child respondents,13,38.46,2.92,2.1,0.2,13,No
+Experience,FAM-BEV-a,Finds it easy to keep overview of the child's life events and care history,Families,Parents,27,44.44,2.81,Child respondents,13,46.15,3.08,1.71,0.26,13,No
+Experience,PRO-BEV-a,Finds it important to have the child's full story visible,Professionals,Care providers,15,100.0,4.93,Intake coordinators,16,100.0,4.88,0.0,0.06,15,No
+Information exchange,FAM-UITW-b,The family or their care provider rarely had to request additional information from previous providers at the start of care,Families,Parents,27,11.11,1.93,Child respondents,9,11.11,2.22,0.0,0.3,9,No
+Information exchange,PRO-INFO-d,Can open/view information from other professionals easily,Professionals,Care providers,15,40.0,2.53,Intake coordinators,15,40.0,2.93,0.0,0.4,15,No

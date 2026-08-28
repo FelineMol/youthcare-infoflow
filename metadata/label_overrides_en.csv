@@ -1,0 +1,25 @@
+bundle_id,publication_label_en
+FAM-BEV-c,Does not find repeating the child's story burdensome
+FAM-BEV-d,Finds it important that professionals know the full story (and therefore shares it)
+PRO-BEV-a,Finds it important to have the child's full story visible
+PRO-BEV-d,Does not find it burdensome to reconstruct or request information regarding the child's trajectory
+FAM-OVZ-c,Knows what information is recorded in professionals' records
+FAM-OVZ-d,Understands what is written in the record
+FAM-OVZ-e,Believes all important or required information is documented in professionals' records
+PRO-OVZ-c,Has sufficient context about the child and their environment
+PRO-OVZ-d,Knows which organisations have recorded which information
+PRO-OVZ-HULPV-e,Have access to previous professionals' records with few additional requests
+PRO-OVZ-HULPV-f,Believe all important or required information is recorded in professionals' records
+PRO-OVZ-AMT-e,Rarely need to request additional information from other professionals at the start of care
+FAM-TOEG-a,Personally possesses information about prior care (own copies)
+FAM-TOEG-d,Can share relevant information with professionals successfully
+FAM-UITW-a,Rarely acts as the messenger between professionals
+FAM-UITW-b,The family or their care provider rarely had to request additional information from previous providers at the start of care
+FAM-UITW-c,The child rarely had to repeat questions or assessments because professionals had not sufficiently used each other's information
+PRO-INFO-a,Rarely needs to repeat questions or tests due to lack of access to other professionals' information
+PRO-INFO-b,Rarely receives information from other professionals through families
+PRO-INFO-e,Can interpret the information from other professionals easily (little need to clarify)
+FAM-REG-d,Wants to be able to read what is in professionals' records
+FAM-INSP-a,Does not find collecting information before the start of care time-consuming/effortful
+FAM-INSP-b,Does not find sharing information with professionals time-consuming/effortful
+FAM-INSP-c,Rarely had to retell the child's story during the care trajectory

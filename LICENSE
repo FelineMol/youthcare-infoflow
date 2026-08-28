@@ -1,0 +1,44 @@
+Licensing summary
+=================
+
+This repository is released under two licences:
+
+  - Source code (the *.py pipeline, tests and scripts) is licensed under the
+    MIT License, reproduced in full below.
+
+  - Releasable documentation and aggregate materials (everything under
+    supplement/, Figures 1-5 in outputs/figures/, and the metadata/
+    dictionaries) are licensed under the Creative Commons
+    Attribution 4.0 International licence (CC-BY-4.0),
+    https://creativecommons.org/licenses/by/4.0/.
+
+  - Raw survey responses and open-text answers are NOT part of this repository
+    and are not released, for participant-privacy reasons (see README and the
+    data-availability statement). No data licence applies to them.
+
+When reusing material from this repository, cite it as described in CITATION.cff.
+
+------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 Feline Mollerus, Rob Wichers, Emily Croes,
+Pomme van Warmerdam, Jeroen Legerstee, and Hilgo Bruining
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

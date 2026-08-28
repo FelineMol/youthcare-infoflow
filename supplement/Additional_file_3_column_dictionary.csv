@@ -1,0 +1,33 @@
+column,description
+theme,Theme the item belongs to.
+item_id,"Stable item identifier, shared with Additional files 1 and 2."
+publication_label,Item statement in the positive (agreement) direction; reverse-scored items are relabelled and marked (R).
+original_direction,"Polarity as administered: + positive, - negative (reverse-scored)."
+reverse_scored,Yes if the item was worded negatively and recoded so that higher means more positive.
+applicable_personas,Personas the item was put to.
+reporting_unit,The persona or pooled group this row summarises.
+orgs_included,"Which organisations contributed rows for this reporting_unit (N=You + Levvel, N=You, or Levvel)."
+reporting_unit_n,Total analysed respondents in this persona or group (the full denominator).
+eligible_n,Respondents in this reporting_unit who were asked the item; below reporting_unit_n when only one organisation asked it.
+valid_n,Eligible respondents who gave a Likert rating 1-5 (the denominator for the percentages).
+nvt_n,Chose 'not applicable'.
+nvt_pct,'Not applicable' as % of eligible.
+dk_n,Chose 'don't know'.
+missing_n,Left the item blank.
+non_likert_excluded_n,Gave a non-Likert answer excluded from valid (e.g. a duration option).
+disagree_n,"Count in 'disagree' (position 1, positive direction)."
+disagree_pct,As % of valid_n.
+somewhat_disagree_n,Count in 'somewhat disagree' (2).
+somewhat_disagree_pct,As % of valid_n.
+neutral_n,Count in 'neutral' (3).
+neutral_pct,As % of valid_n.
+somewhat_agree_n,Count in 'somewhat agree' (4).
+somewhat_agree_pct,As % of valid_n.
+agree_n,Count in 'agree' (5).
+agree_pct,As % of valid_n.
+top2_n,Count in the top two agreement categories (somewhat agree + agree).
+top2_pct,Top-2 as % of valid_n (the headline statistic).
+agree_original_direction_n,Agreement in the administered direction; differs from Top-2 for reverse-scored items.
+agree_original_direction_pct,As % of valid_n.
+cross_org_note,Note for items whose two organisations' wording was harmonised for descriptive pooling.
+(reconciliation),eligible_n = valid_n + nvt_n + dk_n + missing_n + non_likert_excluded_n.
