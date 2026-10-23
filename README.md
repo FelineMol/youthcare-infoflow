@@ -169,6 +169,7 @@ have no remaining truncations.
 
 - How to cite: see [`CITATION.cff`](CITATION.cff) (v1.0.0). A DOI and the journal article
   as `preferred-citation` are added once the article is accepted.
-- Licence: see [`LICENSE`](LICENSE). Code is MIT; the releasable documentation and aggregate
-  materials (`supplement/`, Figures 1-5 in `outputs/figures/`, `metadata/`) are CC-BY-4.0.
-  Raw survey responses and open text are not released and carry no data licence.
+- Licence: the code is MIT ([`LICENSE`](LICENSE)). The additional files in `supplement/`,
+  Figures 1-5 in `outputs/figures/` and the tables in `metadata/` are CC BY 4.0
+  ([`supplement/LICENSE.md`](supplement/LICENSE.md)). Raw survey responses and open text are
+  not released and carry no data licence.
