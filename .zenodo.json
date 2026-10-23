@@ -1,0 +1,44 @@
+{
+  "title": "Youthcare Infoflow Survey: analysis pipeline",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Analysis pipeline, figures and additional files for an exploratory cross-sectional survey on information flow in youth care at two Dutch organisations (N=You and Levvel; N=72), accompanying an article submitted to BMC Health Services Research.</p><p>Contents: the analysis pipeline (run_all.py) with tests that run on synthetic data; Figures 1-5 of the article; and Additional files 1-5 (questionnaire items, bridged-item matrix, descriptive results, Top-2 plots and the open-text pattern framework).</p><p>Participant-level survey data and open-text responses are not included, to protect participant privacy.</p><p>Licences: the code is MIT; the additional files, Figures 1-5 and the metadata tables are CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Mollerus, Feline",
+      "affiliation": "Amsterdam UMC, N=You Neurodevelopmental Precision Center, Department of Child and Adolescent Psychiatry & Psychosocial Care, Amsterdam, the Netherlands",
+      "orcid": "0009-0000-5153-6540"
+    },
+    {
+      "name": "Wichers, Rob",
+      "affiliation": "Amsterdam UMC, N=You Neurodevelopmental Precision Center, Department of Child and Adolescent Psychiatry & Psychosocial Care, Amsterdam, the Netherlands",
+      "orcid": "0000-0002-6630-8038"
+    },
+    {
+      "name": "Croes, Emily",
+      "affiliation": "Levvel Mental Health Center, Duivendrecht, the Netherlands"
+    },
+    {
+      "name": "van Warmerdam, Pomme",
+      "affiliation": "Levvel Mental Health Center, Duivendrecht, the Netherlands"
+    },
+    {
+      "name": "Legerstee, Jeroen",
+      "affiliation": "Levvel Mental Health Center, Duivendrecht, the Netherlands",
+      "orcid": "0000-0001-6793-1123"
+    },
+    {
+      "name": "Bruining, Hilgo",
+      "affiliation": "Amsterdam UMC, N=You Neurodevelopmental Precision Center, Department of Child and Adolescent Psychiatry & Psychosocial Care, Amsterdam, the Netherlands",
+      "orcid": "0000-0003-0660-1969"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "information fragmentation",
+    "youth mental health care",
+    "integrated care",
+    "survey"
+  ],
+  "language": "eng"
+}
