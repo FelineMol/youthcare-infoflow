@@ -1,5 +1,7 @@
 # Youthcare Infoflow Survey: analysis pipeline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23598059.svg)](https://doi.org/10.5281/zenodo.23598059)
+
 Analysis code for an exploratory, cross-sectional Microsoft Forms survey on information
 fragmentation in Dutch child and adolescent mental-health care, at two organisations
 (N=You and Levvel). It cleans and harmonises the per-persona exports, computes the
@@ -150,8 +152,8 @@ runs the same suite and never touches `data/raw/` or the private qualitative wor
 
 ## Known issues / pending decisions
 
-Nothing blocking. `CITATION.cff` and `LICENSE` are complete; the only optional additions
-are a Zenodo DOI and the `preferred-citation` block once the article is accepted.
+Nothing blocking. `CITATION.cff` and `LICENSE` are complete; the only open addition
+is the `preferred-citation` block once the article is accepted.
 
 Resolved (see `ANALYSIS_DECISIONS.md`): the Effort family items FAM-INSP-a/b/c (the Levvel-child
 Forms display fault was corrected per the Forms design, so "Beet je mee oneens" reads as position
@@ -167,8 +169,10 @@ have no remaining truncations.
 
 ## Citation & licence
 
-- How to cite: see [`CITATION.cff`](CITATION.cff) (v1.0.0). A DOI and the journal article
-  as `preferred-citation` are added once the article is accepted.
+- How to cite: see [`CITATION.cff`](CITATION.cff). Version 1.0.0, the version used for the
+  article, is archived on Zenodo: https://doi.org/10.5281/zenodo.23598060 (all versions:
+  https://doi.org/10.5281/zenodo.23598059). The journal article is added as
+  `preferred-citation` once it is accepted.
 - Licence: the code is MIT ([`LICENSE`](LICENSE)). The additional files in `supplement/`,
   Figures 1-5 in `outputs/figures/` and the tables in `metadata/` are CC BY 4.0
   ([`supplement/LICENSE.md`](supplement/LICENSE.md)). Raw survey responses and open text are

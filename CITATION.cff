@@ -54,7 +54,14 @@ license:
 version: "1.0.0"
 date-released: "2026-10-23"
 repository-code: "https://github.com/FelineMol/youthcare-infoflow"
-# doi: "10.5281/zenodo.TODO"        # TODO: uncomment and fill if you mint a Zenodo DOI
+doi: "10.5281/zenodo.23598059"      # concept DOI: always resolves to the latest version
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23598059"
+    description: "All versions (concept DOI)"
+  - type: doi
+    value: "10.5281/zenodo.23598060"
+    description: "Version 1.0.0, the version used for the article"
 
 keywords:
   - information fragmentation
